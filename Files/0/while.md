@@ -34,9 +34,9 @@ two using scaled integers.
 Hint: use the fact that sqrt ( 4 x ) = 2 sqrt ( x ) to scale
 appropriately.
 
-Given a square S and a guess R0 for the square root of S, an
-integer formula for the next better guess R1, based on the
-Babylonian method might be
+Given a number S (possibly, but not necessarily a square number)
+and a guess R0 for the square root of S, an integer formula for
+the next better guess R1, based on the Babylonian method might be
 
 R1 = (R0 + S / R0) / 2
 
