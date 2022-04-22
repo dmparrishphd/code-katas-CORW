@@ -32,7 +32,8 @@ Apply the Babylonian Method to approximate the square root of
 two using scaled integers.
 
 Hint: use the fact that sqrt ( 4 x ) = 2 sqrt ( x ) to scale
-appropriately.
+appropriately. Then, find an integer approximation for
+sqrt ( 2 ), then  sqrt ( 4 * 2 ), then sqrt ( 4 * 4 * 2 ), ...
 
 Given a number S (possibly, but not necessarily a square number)
 and a guess R0 for the square root of S, an integer formula for
